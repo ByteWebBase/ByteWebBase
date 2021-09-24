@@ -24,7 +24,7 @@
 
 ## [2. ByteApiCLI](https://github.com/ByteWebBase/ByteApiCLI)
 
-### Github AOuth登录
+### Github OAuth登录
 
 ### pre-commit代码审查
 
