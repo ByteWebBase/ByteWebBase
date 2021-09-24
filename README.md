@@ -8,7 +8,7 @@
 
 [4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI)
 
-[答辩PPT地址](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb[)
+[答辩PPT地址](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
 
 ## 平台架构
 
@@ -16,13 +16,10 @@
 
 
 
-### ByteDBDoc
+[1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
 
+[2. ByteApiCLI](https://github.com/ByteWebBase/ByteApiCLI)
 
+[3. ByteApiTestTool](https://github.com/ByteWebBase/ByteApiTestTool)
 
-
-
-### ByteApiCLI
-
-
-
+[4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI)
