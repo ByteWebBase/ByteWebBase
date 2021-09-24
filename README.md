@@ -1,18 +1,28 @@
 # ByteWebDBPlatform
 
-[1. ByteDBDocs](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
+[1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
 
-[2. ByteApiCLI](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
+[2. ByteApiCLI](https://github.com/ByteWebBase/ByteDBDocs)
 
-[3. BytePostMan](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
+[3. ByteApiTestTool](https://github.com/ByteWebBase/ByteApiTestTool)
 
-[4. ByteVitePressCLI]()
+[4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI)
 
-[答辩PPT地址 周日四点开放权限](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
+[答辩PPT地址](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb[)
 
 ## 平台架构
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210924205028.png)
+
+
+
+### ByteDBDoc
+
+
+
+
+
+### ByteApiCLI
 
 
 
