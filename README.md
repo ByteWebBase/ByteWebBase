@@ -4,7 +4,7 @@
 
 [2. ByteApiCLI 胡文兴 xxx xxx](https://github.com/ByteWebBase/ByteDBDocs)
 
-[3. ByteApiTestToo 司徒永聪 xxx xxx](https://github.com/ByteWebBase/ByteApiTestTool)
+[3. ByteApiTestTool 司徒永聪 xxx xxx](https://github.com/ByteWebBase/ByteApiTestTool)
 
 [4. ByteVitePressCLI 杨嘉兴 xxx xxx](https://github.com/ByteWebBase/ByteVitePressCLI)
 
