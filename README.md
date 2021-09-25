@@ -1,8 +1,11 @@
 # ByteWebBase
 
-为了最大程度的让组员参与进来，我们选择了ByteWebBase面向Web前端研发的基础设施作为项目的方向，包含ByteDBDocs、ByteApiCLI、ByteApiTestTool、ByteVitePressCLI、ByteGitStat、ByteWebMonitor六大部分。
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925224505.png)
+
+为了最大程度的让组员参与进来，我们选择了ByteWebBase面向Web前端研发的基础设施作为项目的方向，包含ByteDBDocs、ByteApiCLI、ByteApiTestTool、ByteVitePressCLI、ByteGitStat、ByteWebMonitor六大部分。
+
+(以下仓库将在9月26日12:00对外开放~)
 
 [1. ByteDBDocs 管善鑫 张群清 xxx ](https://github.com/ByteWebBase/ByteDBDocs)
 
