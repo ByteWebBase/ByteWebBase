@@ -45,7 +45,9 @@ Github OAuth登录后才能使用脚手架的其他功能，便于自动收集�
 
 ## [3. ByteApiTestTool](https://github.com/ByteWebBase/ByteApiTestTool)
 
-Api测试工具
+Api测试工具——用注释包围关键代码即可调试 免去频繁复制粘贴所带来的麻烦
+
+[![4ymWUP.gif](https://z3.ax1x.com/2021/09/26/4ymWUP.gif)](https://imgtu.com/i/4ymWUP)
 
 ## [4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI)
 
