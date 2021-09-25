@@ -14,7 +14,7 @@
 
 ## 平台架构
 
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925202138.png)
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925223632.png)
 
 ## [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
 
@@ -41,4 +41,5 @@ Api测试工具
 ## [4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI)
 
 基于vitepress的文档脚手架，支持约定路由
+
 
