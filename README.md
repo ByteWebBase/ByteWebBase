@@ -1,6 +1,6 @@
 # ByteWebDBPlatform
 
-[1. ByteDBDocs 管善鑫 张群清 xxx ](https://github.com/ByteWebBase/ByteDBDocs)
+[1. ByteDBDocs 管善鑫 xxx xxx ](https://github.com/ByteWebBase/ByteDBDocs)
 
 [2. ByteApiCLI 胡文兴 xxx xxx](https://github.com/ByteWebBase/ByteDBDocs)
 
@@ -12,7 +12,7 @@
 
 ## 平台架构
 
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210924205028.png)
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925194909.png)
 
 
 ## [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
