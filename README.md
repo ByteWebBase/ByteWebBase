@@ -18,8 +18,7 @@
 
 ## 平台架构
 
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925230320.png)
-
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925230730.png)
 ## [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
 
 dbml数据库表格配置文件生成数据库可视化表格
