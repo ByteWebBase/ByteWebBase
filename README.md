@@ -1,6 +1,6 @@
 # ByteBase
 
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925201743.png)
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925201904.png)
 
 [1. ByteDBDocs 管善鑫 xxx xxx ](https://github.com/ByteWebBase/ByteDBDocs)
 
