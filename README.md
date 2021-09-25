@@ -28,6 +28,8 @@ dbml配置文件生成Restful接口Koa工程
 
 ### Github OAuth登录
 
+Github OAuth登录后才能使用脚手架的其他功能，便于自动收集脚手架用户的使用情况
+
 ### pre-commit代码审查
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
