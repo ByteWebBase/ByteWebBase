@@ -52,7 +52,7 @@ Git相关数据统计工具
 
 ## [6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)
 
-Web前端一站式解决方案
+Web前端监控一站式解决方案
 
 
 <!-- ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/b8.gif) -->
