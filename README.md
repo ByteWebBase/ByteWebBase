@@ -49,3 +49,9 @@ Api测试工具
 ## [5. ByteGitStat](https://github.com/ByteWebBase/ByteGitStat)
 
 Git相关数据统计工具
+
+## [6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)
+
+Web前端一站式解决方案
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/b7.gif)
