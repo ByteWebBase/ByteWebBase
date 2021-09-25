@@ -12,7 +12,7 @@
 
 [5. ByteGitStat 陈池轩 xxx xxx](https://github.com/ByteWebBase/ByteGitStat)
 
-[6. ByteWebMonitor 进阶版项目](https://byte-web-monitor.vansin.top/)
+[6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)
 
 [答辩PPT地址](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb) 
 
