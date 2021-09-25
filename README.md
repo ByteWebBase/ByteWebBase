@@ -18,7 +18,7 @@
 
 ## 平台架构
 
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925223632.png)
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/20210925230320.png)
 
 ## [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)
 
