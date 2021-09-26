@@ -63,7 +63,7 @@ npm i -g @byte-web-base/byte-api-cli
 
 ### lint-staged+prettier代码规范
 
-基于git hooks检测代码规范，让系统更加健壮
+git hooks的pre-commit触发检测代码规范，让系统更加健壮
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
 
