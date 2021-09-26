@@ -107,6 +107,11 @@ $ byte-vitepress-cli init myproject
 ```
 $ byte-vitepress-cli init myproject -e
 ```
+示例图如下：
+- 模板安装
+
+<img src = 'https://s3.bmp.ovh/imgs/2021/09/f014312d39165294.gif' />
+
 #### refresh
 通过该命令自动生成你的vitepress项目的侧边栏路由，目前暂时仅支持中文模板下的约定路由生成。
 
@@ -125,29 +130,15 @@ xxx-{weight}.md
 其中 `xxx` 为文件名，同时也是显示在页面中的侧边栏名，`{weight}` 为文章优先级，越小则越靠前。
 
 示例图如下：
+- 约定路由
 
-- 文件命名示例
-  
-<img src = 'https://i.bmp.ovh/imgs/2021/09/37c5924a58451feb.png' style="box-shadow: 1px 2px 10px rgba(0,0,0,0.1);"/>
+<img src = 'https://s3.bmp.ovh/imgs/2021/09/b78efdd896550ac5.gif' />
 
-- 实际效果示例
-  
-<img src = 'https://i.bmp.ovh/imgs/2021/09/21c89756fb6fcd74.png' style="box-shadow: 1px 2px 10px rgba(0,0,0,0.1);"/>
 
 #### upgrade
 检查是否有版本更新
 ```
 $ byte-vitepress-cli upgrade
-```
-
-#### service <service_ID> \<credentials>
-通过该指令生成你的云服务配置信息。
-
-你可以在你个人的[轻服务](https://qingfuwu.cn/)控制台设置中查看到对应的service_ID。
-
-个人凭证的申请可以参考如下链接: [personal_ credentials](https://qingfuwu.cn/docs/openapi/personaltoken2.html)
-```
-$ byte-vitepress-cli service aaabbb abcdefxyz
 ```
 
 #### monitor <APP_ID>
@@ -169,6 +160,21 @@ $ byte-vitepress-cli monitor example123
 ```
 $ byte-vitepress-cli addMonitor
 ```
+示例图如下：
+- 监控信息配置与开启
+
+<img src = 'https://s3.bmp.ovh/imgs/2021/09/b9a109a40733e86b.gif' />
+
+#### service <service_ID> \<credentials>
+通过该指令生成你的云服务配置信息。
+
+你可以在你个人的[轻服务](https://qingfuwu.cn/)控制台设置中查看到对应的service_ID。
+
+个人凭证的申请可以参考如下链接: [personal_ credentials](https://qingfuwu.cn/docs/openapi/personaltoken2.html)
+```
+$ byte-vitepress-cli service aaabbb abcdefxyz
+```
+
 #### deploy
 将你的项目部署到字节跳动旗下产品————[轻服务](https://qingfuwu.cn/)上。
 
@@ -178,6 +184,10 @@ $ byte-vitepress-cli addMonitor
 ```
 $ byte-vitepress-cli deploy
 ```
+示例图如下：
+- 轻服务配置与部署
+
+<img src = 'https://s3.bmp.ovh/imgs/2021/09/683e4aaaa8dda1d5.gif' />
 
 #### mirror <TEMPLATE_MIRROR>
 你可以替换模板的下载位置如下指令：
