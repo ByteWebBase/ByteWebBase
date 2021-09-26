@@ -65,7 +65,7 @@ npm i -g @byte-web-base/byte-api-cli
 
 ### Github OAuth 登录
 
-登录后才能使用cli, 方便收集用户的信息以更好的改进脚手架的体验
+登录后才能使用cli, 方便收集信息以更好的改进脚手架的体验
 
 ```shell
 byte-api-cli login
@@ -74,6 +74,8 @@ byte-api-cli login
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/byte-api-cli-login.gif)
 
 ### lint-staged+prettier 代码规范
+
+代码规范让系统更加健壮
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
 
