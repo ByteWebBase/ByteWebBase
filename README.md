@@ -53,15 +53,40 @@ dbml 数据库表格配置文件生成数据库可视化表格
 
 ## [2. ByteApiCLI](https://github.com/ByteWebBase/ByteApiCLI)
 
-dbml 配置文件生成 Restful 接口 Koa 工程
+
+根据.dbml 文件生成 Restful 接口
+
+### Installation
+
+```shell
+npm i -g @byte-web-base/byte-api-cli
+
+```
 
 ### Github OAuth 登录
 
-Github OAuth 登录后才能使用脚手架的其他功能，便于自动收集脚手架用户的使用情况
+```shell
+byte-api-cli login
+```
 
-### pre-commit 代码审查
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/byte-api-cli-login.gif)
+
+### lint-staged+prettier 代码规范
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
+
+### cli 创建 api 项目
+
+```shell
+byte-api-cli build database.dbml
+```
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/Peek-2021-09-26-10-43.gif)
+
+ApiFox 测试 API
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/Peek-2021-09-26-10-53.gif)
+
 
 ## [3. ByteApiTestTool](https://github.com/ByteWebBase/ByteApiTestTool)
 
