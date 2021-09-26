@@ -4,17 +4,16 @@
 
 为了最大程度的让组员参与进来，我们选择了 ByteWebBase 面向 Web 前端研发的基础设施作为项目的方向，包含 ByteDBDocs、ByteApiCLI、ByteApiTestTool、ByteVitePressCLI、ByteGitStat、ByteWebMonitor 六大部分。
 
-[1. ByteDBDocs 管善鑫 张群清 xxx ](https://github.com/ByteWebBase/ByteDBDocs)
-
-[2. ByteApiCLI 胡文兴 xxx xxx](https://github.com/ByteWebBase/ByteDBDocs)
-
-[3. ByteApiTestTool 司徒永聪 xxx xxx](https://github.com/ByteWebBase/ByteApiTestTool)
-
-[4. ByteVitePressCLI 杨嘉兴 xxx xxx](https://github.com/ByteWebBase/ByteVitePressCLI)
-
-[5. ByteGitStat 陈池轩 xxx xxx](https://github.com/ByteWebBase/ByteGitStat)
-
 [6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)
+
+| 模块名称                                                     | 模块描述                                                     | 参与同学                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)   | dbml 数据库表格配置文件生成数据库可视化表格                  | 管善鑫 张群清                                                |
+| [2. ByteApiCLI](https://github.com/ByteWebBase/ByteDBDocs)   | dbml 文件生成 Restful 接口                                   | 胡文兴 张玳铭 周方旭                                         |
+| [3. ByteApiTestTool 司徒永聪](https://github.com/ByteWebBase/ByteApiTestTool) | Api 测试工具——用注释包围关键代码即可调试 免去频繁复制粘贴所带来的麻烦 | 司徒永聪 刘宏伟                                              |
+| [4. ByteVitePressCLI](https://github.com/ByteWebBase/ByteVitePressCLI) | 轻量级的vitepress脚手架，支持约定路由、轻服务部署、一键添加Web监控 | 杨嘉兴 胡文兴                                                |
+| [5. ByteGitStat 陈池轩](https://github.com/ByteWebBase/ByteGitStat) | Git 相关数据可视化统计                                       | 陈池轩 侯智聪                                                |
+| [6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)    | Web前端监控一站式解决方案                                    | 胡文兴 张玳铭 周方旭 侯智聪 杨嘉兴 陈池轩 司徒永聪 管善鑫 张群清 刘宏伟 |
 
 [答辩 PPT 地址](https://fyctfmijjr.feishu.cn/file/boxcnLU57KRENXh2W9WuDVe4Npb)
 
@@ -70,7 +69,7 @@ git hooks的pre-commit触发检测代码规范，让系统更加健壮
 
 ### Github OAuth 登录
 
-登录后才能使用cli, 方便收集信息以更好的改进脚手架的体验
+登录后才能使用cli, 方便收集信息以更好的改进脚手架的体验轻量级的vitepress脚手架
 
 ```shell
 byte-api-cli login
