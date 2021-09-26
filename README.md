@@ -4,8 +4,6 @@
 
 为了最大程度的让组员参与进来，我们选择了 ByteWebBase 面向 Web 前端研发的基础设施作为项目的方向，包含 ByteDBDocs、ByteApiCLI、ByteApiTestTool、ByteVitePressCLI、ByteGitStat、ByteWebMonitor 六大部分。
 
-[6. ByteWebMonitor](https://byte-web-monitor.vansin.top/)
-
 | 模块名称                                                     | 模块描述                                                     | 参与同学                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [1. ByteDBDocs](https://github.com/ByteWebBase/ByteDBDocs)   | dbml 数据库表格配置文件生成数据库可视化表格                  | 管善鑫 张群清                                                |
