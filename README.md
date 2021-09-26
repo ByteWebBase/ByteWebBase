@@ -61,6 +61,13 @@ npm i -g @byte-web-base/byte-api-cli
 
 ```
 
+### lint-staged+prettier代码规范
+
+基于git hooks检测代码规范，让系统更加健壮
+
+![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
+
+
 ### Github OAuth 登录
 
 登录后才能使用cli, 方便收集信息以更好的改进脚手架的体验
@@ -71,11 +78,6 @@ byte-api-cli login
 
 ![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/byte-api-cli-login.gif)
 
-### lint-staged+prettier 代码规范
-
-代码规范让系统更加健壮
-
-![](https://moonstarimg.oss-cn-hangzhou.aliyuncs.com/picgo_img/husky_lint.gif)
 
 ### cli 创建 api 项目
 
